@@ -1,4 +1,4 @@
-# ps-items
+# Photoshop Items
 
 A collection of Photoshop scripts (`.jsx`) for workflow automation.
 
